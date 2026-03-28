@@ -13,6 +13,8 @@
 ## 🛠️ Tech Stack
 
 **Frontend**: React 18 + TypeScript, Vite, Tailwind CSS, Framer Motion, Chart.js
+
 **Backend**: FastAPI, Hugging Face Transformers, Scikit-learn, MongoDB
+
 **AI/ML**: Sentiment analysis, Big Five trait prediction, 7 emotional states
 
